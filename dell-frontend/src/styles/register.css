@@ -1,0 +1,80 @@
+
+.register-modal{
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 70%;
+    max-height: 80vh;
+    background-color: #fff;
+    box-shadow: 24;
+    outline: none;
+    border-radius: 10px;
+   
+}
+.register-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    width: 100%;
+    margin: auto;
+    border-radius: 10px;
+}
+
+.register-bg {
+    background-image: url('https://i.dell.com/is/image/DellContent/content/dam/ss2/page-specific/dell-homepage/apj/modules/ena-show-cons-dell-s2723hc-uhp-2302-10-au-homepage-module-lf-1023x842.png?fmt=png-alpha&wid=1023&hei=842');
+    background-repeat: no-repeat;
+    /* // background-size:cover;
+    // background-position:bottom; */
+    background-size: contain;
+    background-position: center;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    height: 400px;
+}
+
+.form-container {
+    width: 80% !important;
+    margin: auto !important;
+    padding-top:2em !important;
+    padding-bottom: 2em !important;
+    padding-right: 0 !important;
+}
+
+.register-heading {
+    color: #444;
+    font-size: 32px !important;
+    font-style: normal;
+    font-weight: 400 !important;
+
+}
+
+.form {
+    margin-top: 1em !important;
+}
+.close-btn{
+    display:flex !important;
+    justify-content:center !important;
+    align-items:center !important;
+    position:absolute !important;
+    right:-10px !important;
+    top:-10px !important;
+    height:20px !important;
+    width:20px !important;
+    min-width:0 !important;
+    padding:20px !important;
+    background-color:rgb(220, 228, 246) !important;
+    color:#0672cb !important;
+    border-radius:50% !important;
+}
+.css-rxrlwa-MuiButtonBase-root-MuiButton-root:hover{
+color:#fff !important;
+background:#0672cb !important;
+}
+
+.modalError {
+    color: red !important;
+    font-size: small;
+}
+

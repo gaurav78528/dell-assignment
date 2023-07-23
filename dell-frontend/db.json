@@ -1,0 +1,538 @@
+{
+  "users": [
+    {
+      "username": "gaurav",
+      "email": "gaurav785280@gmail.com",
+      "password": "12345",
+      "confirmPassword": "12345",
+      "id": 1
+    },
+    {
+      "username": "gaurav",
+      "email": "gaurav@gmail.com",
+      "password": "MTIzNDU2",
+      "confirmPassword": "MTIzNDU2",
+      "id": 2
+    },
+    {
+      "username": "abc",
+      "email": "abc@gmail.com",
+      "password": "MTIz",
+      "confirmPassword": "MTIz",
+      "id": 3
+    },
+    {
+      "username": "abc",
+      "email": "abc@gamil.com",
+      "password": "MTIz",
+      "confirmPassword": "MTIz",
+      "id": 4
+    },
+    {
+      "username": "virat",
+      "email": "virat@gmail.com",
+      "password": "MTIz",
+      "confirmPassword": "MTIz",
+      "id": 5
+    },
+    {
+      "username": "virat",
+      "email": "virat@gmail.com",
+      "password": "MTIz",
+      "confirmPassword": "MTIz",
+      "id": 6
+    },
+    {
+      "username": "smith",
+      "email": "smith@gmail.com",
+      "password": "MTIz",
+      "confirmPassword": "MTIz",
+      "id": 7
+    },
+    {
+      "username": "test",
+      "email": "test@gmail.com",
+      "password": "VGVzdEAxMjM=",
+      "confirmPassword": "VGVzdEAxMjM=",
+      "id": 8
+    },
+    {
+      "username": "test1",
+      "email": "test1@gmail.com",
+      "password": "VGVzdDFAMTIz",
+      "confirmPassword": "VGVzdDFAMTIz",
+      "id": 9
+    },
+    {
+      "username": "test2",
+      "email": "test2@gmail.com",
+      "password": "VGVzdDFAMTIz",
+      "confirmPassword": "VGVzdDFAMTIz",
+      "id": 10
+    }
+  ],
+  "parts": [
+    {
+      "id": "part1",
+      "name": "Dell UltraSharp U2719D Monitor",
+      "modelNo": "U2719D",
+      "type": "Monitor",
+      "imageLink": "https://example.com/dell-monitor.jpg",
+      "specifications": "27-inch 2560x1440 resolution, IPS panel, 60Hz refresh rate, 99% sRGB color coverage",
+      "compatibility": "Compatible with most modern Dell laptops and desktops",
+      "issuesRecalls": "",
+      "installationTroubleshooting": "1. Connect the monitor to your computer using the provided cables. \n2. Make sure to set the correct resolution in your computer's display settings. \n3. If you encounter any issues, consult the user manual or contact Dell support."
+    },
+    {
+      "id": "part2",
+      "name": "Dell XPS 15 Laptop",
+      "modelNo": "XPS 15",
+      "type": "Laptop",
+      "imageLink": "https://example.com/dell-laptop2.jpg",
+      "specifications": "15.6-inch 4K OLED display, Intel Core i9 processor, 32GB RAM, 1TB SSD, NVIDIA GTX 1650 Ti",
+      "compatibility": "Compatible with various Dell docking stations and peripherals",
+      "issuesRecalls": "",
+      "installationTroubleshooting": "1. Charge the laptop before first use. \n2. Connect to a Wi-Fi network during initial setup. \n3. If you experience any issues, check for software updates and contact Dell support if necessary."
+    },
+    {
+      "id": "part3",
+      "name": "Dell KM717 Wireless Keyboard and Mouse Combo",
+      "modelNo": "KM717",
+      "type": "Peripherals",
+      "imageLink": "https://example.com/dell-keyboard-mouse.jpg",
+      "specifications": "Full-size keyboard with multimedia keys, wireless mouse with 1600 DPI tracking, Bluetooth connectivity",
+      "compatibility": "Compatible with Dell and non-Dell computers supporting Bluetooth 4.0 or higher",
+      "issuesRecalls": "A few users reported occasional connection drop issues.",
+      "installationTroubleshooting": "1. Install batteries in the keyboard and mouse. \n2. Pair the keyboard and mouse with your computer using Bluetooth. \n3. If you face connection drop issues, update the keyboard and mouse firmware."
+    },
+    {
+      "id": "part4",
+      "name": "Dell Inspiron 14 5000 Series Laptop",
+      "modelNo": "Inspiron 14 5000",
+      "type": "Laptop",
+      "imageLink": "https://example.com/dell-laptop4.jpg",
+      "specifications": "14-inch FHD display, Intel Core i5 processor, 8GB RAM, 256GB SSD, Intel UHD Graphics",
+      "compatibility": "",
+      "issuesRecalls": "No known issues or recalls.",
+      "installationTroubleshooting": "1. Charge the laptop before first use. \n2. Connect to a Wi-Fi network during initial setup. \n3. If you encounter any issues, check for software updates and contact Dell support if necessary."
+    },
+    {
+      "id": "part5",
+      "name": "Dell Alienware Aurora R12 Gaming Desktop",
+      "modelNo": "Alienware Aurora R12",
+      "type": "Desktop",
+      "imageLink": "https://example.com/dell-desktop5.jpg",
+      "specifications": "Intel Core i7-11700KF processor, NVIDIA RTX 3080 GPU, 32GB RAM, 1TB NVMe SSD",
+      "compatibility": "Compatible with Dell gaming monitors and peripherals",
+      "issuesRecalls": "No known issues or recalls.",
+      "installationTroubleshooting": "1. Connect the desktop to your monitor and peripherals. \n2. Ensure all components are properly seated. \n3. If you encounter any issues, check for BIOS updates and contact Dell support if necessary."
+    },
+    {
+      "id": "part6",
+      "name": "Dell S3220DGF Curved Gaming Monitor",
+      "modelNo": "S3220DGF",
+      "type": "Monitor",
+      "imageLink": "https://example.com/dell-monitor6.jpg",
+      "specifications": "32-inch QHD curved display, 165Hz refresh rate, 4ms response time, AMD FreeSync 2",
+      "compatibility": "Compatible with gaming PCs and consoles with HDMI or DisplayPort support",
+      "issuesRecalls": "",
+      "installationTroubleshooting": "1. Connect the monitor to your gaming PC or console using HDMI or DisplayPort. \n2. Adjust the refresh rate and resolution settings according to your preference. \n3. If you encounter any issues, update the monitor firmware and try different settings."
+    },
+    {
+      "id": "part7",
+      "name": "Dell G7 17 Gaming Laptop",
+      "modelNo": "G7 17",
+      "type": "Laptop",
+      "imageLink": "https://example.com/dell-laptop7.jpg",
+      "specifications": "17.3-inch FHD display, Intel Core i7 processor, 16GB RAM, 512GB SSD, NVIDIA RTX 3070",
+      "compatibility": "Compatible with various Dell gaming accessories and peripherals",
+      "issuesRecalls": "",
+      "installationTroubleshooting": "1. Charge the laptop before first use. \n2. Connect to a Wi-Fi network during initial setup. \n3. If you experience any issues, check for software updates and contact Dell support if necessary."
+    },
+    {
+      "id": "part8",
+      "name": "Dell UltraSharp UP3218K Monitor",
+      "modelNo": "UP3218K",
+      "type": "Monitor",
+      "imageLink": "https://example.com/dell-monitor8.jpg",
+      "specifications": "32-inch 8K resolution, IPS panel, 60Hz refresh rate, 100% Adobe RGB color coverage",
+      "compatibility": "Compatible with most modern Dell workstations and laptops with DisplayPort 1.4 support",
+      "issuesRecalls": "",
+      "installationTroubleshooting": "1. Connect the monitor to your computer using the provided DisplayPort cable. \n2. Make sure to set the correct resolution in your computer's display settings. \n3. If you encounter any issues, consult the user manual or contact Dell support."
+    },
+    {
+      "id": "part9",
+      "name": "Dell G15 Gaming Desktop",
+      "modelNo": "G15",
+      "type": "Desktop",
+      "imageLink": "https://example.com/dell-desktop9.jpg",
+      "specifications": "AMD Ryzen 9 processor, NVIDIA RTX 3060 Ti GPU, 32GB RAM, 1TB NVMe SSD",
+      "compatibility": "Compatible with Dell gaming monitors and peripherals",
+      "issuesRecalls": "Some users reported occasional overheating during heavy gaming.",
+      "installationTroubleshooting": "1. Connect the desktop to your monitor and peripherals. \n2. Ensure all components are properly seated. \n3. If you encounter overheating issues, ensure proper ventilation and consider additional cooling solutions."
+    },
+    {
+      "id": "part10",
+      "name": "Dell S2721QS Monitor",
+      "modelNo": "S2721QS",
+      "type": "Monitor",
+      "imageLink": "https://example.com/dell-monitor10.jpg",
+      "specifications": "27-inch 4K UHD display, IPS panel, 60Hz refresh rate, 99% sRGB color coverage",
+      "compatibility": "Compatible with most modern Dell laptops and desktops",
+      "issuesRecalls": "",
+      "installationTroubleshooting": "1. Connect the monitor to your computer using the provided cables. \n2. Make sure to set the correct resolution in your computer's display settings. \n3. If you encounter any issues, consult the user manual or contact Dell support."
+    },
+    {
+      "id": "part11",
+      "name": "Dell Latitude 7420 Laptop",
+      "modelNo": "Latitude 7420",
+      "type": "Laptop",
+      "imageLink": "https://example.com/dell-laptop11.jpg",
+      "specifications": "14-inch FHD display, Intel Core i7 processor, 16GB RAM, 512GB SSD, Intel Iris Xe Graphics",
+      "compatibility": "Compatible with Dell docking stations and business peripherals",
+      "issuesRecalls": "",
+      "installationTroubleshooting": "1. Charge the laptop before first use. \n2. Connect to a Wi-Fi network during initial setup. \n3. If you experience any issues, check for software updates and contact Dell support if necessary."
+    },
+    {
+      "id": "part12",
+      "name": "Dell P2719HC Monitor",
+      "modelNo": "P2719HC",
+      "type": "Monitor",
+      "imageLink": "https://example.com/dell-monitor12.jpg",
+      "specifications": "27-inch 1080p resolution, IPS panel, 60Hz refresh rate, USB-C connectivity",
+      "compatibility": "Compatible with most modern Dell laptops with USB-C support",
+      "issuesRecalls": "",
+      "installationTroubleshooting": "1. Connect the monitor to your computer using the provided USB-C cable. \n2. Make sure to set the correct resolution in your computer's display settings. \n3. If you encounter any issues, consult the user manual or contact Dell support."
+    },
+    {
+      "id": "part13",
+      "name": "Dell G5 Gaming Laptop",
+      "modelNo": "G5",
+      "type": "Laptop",
+      "imageLink": "https://example.com/dell-laptop13.jpg",
+      "specifications": "15.6-inch FHD display, Intel Core i5 processor, 8GB RAM, 256GB SSD, NVIDIA GTX 1660 Ti",
+      "compatibility": "Compatible with various Dell gaming accessories and peripherals",
+      "issuesRecalls": "",
+      "installationTroubleshooting": "1. Charge the laptop before first use. \n2. Connect to a Wi-Fi network during initial setup. \n3. If you experience any issues, check for software updates and contact Dell support if necessary."
+    },
+    {
+      "id": "part14",
+      "name": "Dell SE2419H Monitor",
+      "modelNo": "SE2419H",
+      "type": "Monitor",
+      "imageLink": "https://example.com/dell-monitor14.jpg",
+      "specifications": "23.8-inch 1080p resolution, IPS panel, 60Hz refresh rate, 92% sRGB color coverage",
+      "compatibility": "Compatible with most modern Dell laptops and desktops",
+      "issuesRecalls": "",
+      "installationTroubleshooting": "1. Connect the monitor to your computer using the provided cables. \n2. Make sure to set the correct resolution in your computer's display settings. \n3. If you encounter any issues, consult the user manual or contact Dell support."
+    },
+    {
+      "id": "part15",
+      "name": "Dell XPS 13 Laptop",
+      "modelNo": "XPS 13",
+      "type": "Laptop",
+      "imageLink": "https://example.com/dell-laptop15.jpg",
+      "specifications": "13.3-inch FHD display, Intel Core i5 processor, 8GB RAM, 256GB SSD, Intel UHD Graphics",
+      "compatibility": "Compatible with various Dell docking stations and peripherals",
+      "issuesRecalls": "",
+      "installationTroubleshooting": "1. Charge the laptop before first use. \n2. Connect to a Wi-Fi network during initial setup. \n3. If you experience any issues, check for software updates and contact Dell support if necessary."
+    },
+    {
+      "id": "part16",
+      "name": "Dell S2721DGF Gaming Monitor",
+      "modelNo": "S2721DGF",
+      "type": "Monitor",
+      "imageLink": "https://example.com/dell-monitor16.jpg",
+      "specifications": "27-inch QHD display, IPS panel, 165Hz refresh rate, 1ms response time, AMD FreeSync Premium Pro",
+      "compatibility": "Compatible with gaming PCs and consoles with HDMI or DisplayPort support",
+      "issuesRecalls": "No known issues or recalls.",
+      "installationTroubleshooting": "1. Connect the monitor to your gaming PC or console using HDMI or DisplayPort. \n2. Adjust the refresh rate and resolution settings according to your preference. \n3. If you encounter any issues, update the monitor firmware and try different settings."
+    },
+    {
+      "id": "part17",
+      "name": "Dell Inspiron 27 7000 Series All-in-One Desktop",
+      "modelNo": "Inspiron 27 7000",
+      "type": "Desktop",
+      "imageLink": "https://example.com/dell-desktop17.jpg",
+      "specifications": "27-inch FHD touchscreen display, Intel Core i5 processor, 12GB RAM, 512GB SSD, Intel UHD Graphics",
+      "compatibility": "Compatible with various Dell peripherals and accessories",
+      "issuesRecalls": "",
+      "installationTroubleshooting": "1. Connect the desktop to a power source and turn it on. \n2. Complete the initial setup. \n3. If you encounter any issues, check for software updates and contact Dell support if necessary."
+    },
+    {
+      "id": "part18",
+      "name": "Dell S3221QS Curved Monitor",
+      "modelNo": "S3221QS",
+      "type": "Monitor",
+      "imageLink": "https://example.com/dell-monitor18.jpg",
+      "specifications": "31.5-inch 4K UHD curved display, VA panel, 60Hz refresh rate, 99% sRGB color coverage",
+      "compatibility": "Compatible with most modern Dell laptops and desktops",
+      "issuesRecalls": "",
+      "installationTroubleshooting": "1. Connect the monitor to your computer using the provided cables. \n2. Make sure to set the correct resolution in your computer's display settings. \n3. If you encounter any issues, consult the user manual or contact Dell support."
+    },
+    {
+      "id": "part19",
+      "name": "Dell G3 15 Gaming Laptop",
+      "modelNo": "G3 15",
+      "type": "Laptop",
+      "imageLink": "https://example.com/dell-laptop19.jpg",
+      "specifications": "15.6-inch FHD display, Intel Core i5 processor, 8GB RAM, 256GB SSD, NVIDIA GTX 1650",
+      "compatibility": "Compatible with various Dell gaming accessories and peripherals",
+      "issuesRecalls": "Some users reported occasional audio driver issues.",
+      "installationTroubleshooting": "1. Charge the laptop before first use. \n2. Connect to a Wi-Fi network during initial setup. \n3. If you encounter audio driver issues, update the audio drivers and check for software updates."
+    },
+    {
+      "id": "part20",
+      "name": "Dell P2419H Monitor",
+      "modelNo": "P2419H",
+      "type": "Monitor",
+      "imageLink": "https://example.com/dell-monitor20.jpg",
+      "specifications": "23.8-inch 1080p resolution, IPS panel, 60Hz refresh rate, 99% sRGB color coverage",
+      "compatibility": "Compatible with most modern Dell laptops and desktops",
+      "issuesRecalls": "",
+      "installationTroubleshooting": "1. Connect the monitor to your computer using the provided cables. \n2. Make sure to set the correct resolution in your computer's display settings. \n3. If you encounter any issues, consult the user manual or contact Dell support."
+    },
+    {
+      "id": "part21",
+      "name": "Dell Inspiron 15 3000 Series Laptop",
+      "modelNo": "Inspiron 15 3000",
+      "type": "Laptop",
+      "imageLink": "https://example.com/dell-laptop21.jpg",
+      "specifications": "15.6-inch HD display, Intel Core i3 processor, 4GB RAM, 128GB SSD, Intel UHD Graphics",
+      "compatibility": "",
+      "issuesRecalls": "No known issues or recalls.",
+      "installationTroubleshooting": "1. Charge the laptop before first use. \n2. Connect to a Wi-Fi network during initial setup. \n3. If you encounter any issues, check for software updates and contact Dell support if necessary."
+    },
+    {
+      "id": "part22",
+      "name": "Dell S2721H Monitor",
+      "modelNo": "S2721H",
+      "type": "Monitor",
+      "imageLink": "https://example.com/dell-monitor22.jpg",
+      "specifications": "27-inch 1080p display, IPS panel, 75Hz refresh rate, AMD FreeSync",
+      "compatibility": "Compatible with most modern Dell laptops and desktops",
+      "issuesRecalls": "",
+      "installationTroubleshooting": "1. Connect the monitor to your computer using the provided cables. \n2. Make sure to set the correct resolution in your computer's display settings. \n3. If you encounter any issues, consult the user manual or contact Dell support."
+    },
+    {
+      "id": "part23",
+      "name": "Dell Inspiron 14 3000 Series Laptop",
+      "modelNo": "Inspiron 14 3000",
+      "type": "Laptop",
+      "imageLink": "https://example.com/dell-laptop23.jpg",
+      "specifications": "14-inch HD display, Intel Core i5 processor, 8GB RAM, 256GB SSD, Intel UHD Graphics",
+      "compatibility": "",
+      "issuesRecalls": "No known issues or recalls.",
+      "installationTroubleshooting": "1. Charge the laptop before first use. \n2. Connect to a Wi-Fi network during initial setup. \n3. If you encounter any issues, check for software updates and contact Dell support if necessary."
+    },
+    {
+      "id": "part24",
+      "name": "Dell SE2719H Monitor",
+      "modelNo": "SE2719H",
+      "type": "Monitor",
+      "imageLink": "https://example.com/dell-monitor24.jpg",
+      "specifications": "27-inch 1080p display, IPS panel, 60Hz refresh rate, 92% sRGB color coverage",
+      "compatibility": "Compatible with most modern Dell laptops and desktops",
+      "issuesRecalls": "",
+      "installationTroubleshooting": "1. Connect the monitor to your computer using the provided cables. \n2. Make sure to set the correct resolution in your computer's display settings. \n3. If you encounter any issues, consult the user manual or contact Dell support."
+    },
+    {
+      "id": "part25",
+      "name": "Dell Precision 5750 Mobile Workstation",
+      "modelNo": "Precision 5750",
+      "type": "Laptop",
+      "imageLink": "https://example.com/dell-laptop25.jpg",
+      "specifications": "17-inch 4K UHD display, Intel Xeon processor, 32GB RAM, 1TB NVMe SSD, NVIDIA Quadro RTX 3000",
+      "compatibility": "Compatible with various Dell docking stations and professional peripherals",
+      "issuesRecalls": "",
+      "installationTroubleshooting": "1. Charge the laptop before first use. \n2. Connect to a Wi-Fi network during initial setup. \n3. If you experience any issues, check for software updates and contact Dell support if necessary."
+    },
+    {
+      "id": "part26",
+      "name": "Dell S2421HGF Gaming Monitor",
+      "modelNo": "S2421HGF",
+      "type": "Monitor",
+      "imageLink": "https://example.com/dell-monitor26.jpg",
+      "specifications": "23.8-inch FHD display, TN panel, 144Hz refresh rate, 1ms response time, AMD FreeSync",
+      "compatibility": "Compatible with gaming PCs and consoles with HDMI or DisplayPort support",
+      "issuesRecalls": "No known issues or recalls.",
+      "installationTroubleshooting": "1. Connect the monitor to your gaming PC or console using HDMI or DisplayPort. \n2. Adjust the refresh rate and resolution settings according to your preference. \n3. If you encounter any issues, update the monitor firmware and try different settings."
+    },
+    {
+      "id": "part27",
+      "name": "Dell Inspiron 15 5000 Series Laptop",
+      "modelNo": "Inspiron 15 5000",
+      "type": "Laptop",
+      "imageLink": "https://example.com/dell-laptop27.jpg",
+      "specifications": "15.6-inch FHD display, Intel Core i7 processor, 16GB RAM, 512GB SSD, Intel Iris Xe Graphics",
+      "compatibility": "",
+      "issuesRecalls": "No known issues or recalls.",
+      "installationTroubleshooting": "1. Charge the laptop before first use. \n2. Connect to a Wi-Fi network during initial setup. \n3. If you encounter any issues, check for software updates and contact Dell support if necessary."
+    },
+    {
+      "id": "part28",
+      "name": "Dell S2721QS Monitor",
+      "modelNo": "S2721QS",
+      "type": "Monitor",
+      "imageLink": "https://example.com/dell-monitor28.jpg",
+      "specifications": "27-inch 4K UHD display, IPS panel, 60Hz refresh rate, 99% sRGB color coverage",
+      "compatibility": "Compatible with most modern Dell laptops and desktops",
+      "issuesRecalls": "",
+      "installationTroubleshooting": "1. Connect the monitor to your computer using the provided cables. \n2. Make sure to set the correct resolution in your computer's display settings. \n3. If you encounter any issues, consult the user manual or contact Dell support."
+    },
+    {
+      "id": "part29",
+      "name": "Dell G7 15 Gaming Laptop",
+      "modelNo": "G7 15",
+      "type": "Laptop",
+      "imageLink": "https://example.com/dell-laptop29.jpg",
+      "specifications": "15.6-inch FHD display, Intel Core i7 processor, 16GB RAM, 512GB SSD, NVIDIA RTX 3060",
+      "compatibility": "Compatible with various Dell gaming accessories and peripherals",
+      "issuesRecalls": "",
+      "installationTroubleshooting": "1. Charge the laptop before first use. \n2. Connect to a Wi-Fi network during initial setup. \n3. If you encounter any issues, check for software updates and contact Dell support if necessary."
+    },
+    {
+      "id": "part30",
+      "name": "Dell S3220DGF Curved Gaming Monitor",
+      "modelNo": "S3220DGF",
+      "type": "Monitor",
+      "imageLink": "https://example.com/dell-monitor30.jpg",
+      "specifications": "32-inch QHD curved display, 165Hz refresh rate, 4ms response time, AMD FreeSync 2",
+      "compatibility": "Compatible with gaming PCs and consoles with HDMI or DisplayPort support",
+      "issuesRecalls": "",
+      "installationTroubleshooting": "1. Connect the monitor to your gaming PC or console using HDMI or DisplayPort. \n2. Adjust the refresh rate and resolution settings according to your preference. \n3. If you encounter any issues, update the monitor firmware and try different settings."
+    },
+    {
+      "id": "part31",
+      "name": "Dell XPS 17 Laptop",
+      "modelNo": "XPS 17",
+      "type": "Laptop",
+      "imageLink": "https://example.com/dell-laptop31.jpg",
+      "specifications": "17-inch 4K UHD display, Intel Core i9 processor, 32GB RAM, 1TB SSD, NVIDIA RTX 3080",
+      "compatibility": "Compatible with various Dell docking stations and peripherals",
+      "issuesRecalls": "",
+      "installationTroubleshooting": "1. Charge the laptop before first use. \n2. Connect to a Wi-Fi network during initial setup. \n3. If you experience any issues, check for software updates and contact Dell support if necessary."
+    },
+    {
+      "id": "part32",
+      "name": "Dell P2719HC Monitor",
+      "modelNo": "P2719HC",
+      "type": "Monitor",
+      "imageLink": "https://example.com/dell-monitor32.jpg",
+      "specifications": "27-inch 1080p resolution, IPS panel, 60Hz refresh rate, USB-C connectivity",
+      "compatibility": "Compatible with most modern Dell laptops with USB-C support",
+      "issuesRecalls": "",
+      "installationTroubleshooting": "1. Connect the monitor to your computer using the provided USB-C cable. \n2. Make sure to set the correct resolution in your computer's display settings. \n3. If you encounter any issues, consult the user manual or contact Dell support."
+    },
+    {
+      "id": "part33",
+      "name": "Dell Alienware m15 R5 Gaming Laptop",
+      "modelNo": "Alienware m15 R5",
+      "type": "Laptop",
+      "imageLink": "https://example.com/dell-laptop33.jpg",
+      "specifications": "15.6-inch QHD display, AMD Ryzen 9 processor, 32GB RAM, 1TB NVMe SSD, NVIDIA RTX 3070",
+      "compatibility": "Compatible with various Dell gaming accessories and peripherals",
+      "issuesRecalls": "",
+      "installationTroubleshooting": "1. Charge the laptop before first use. \n2. Connect to a Wi-Fi network during initial setup. \n3. If you encounter any issues, check for software updates and contact Dell support if necessary."
+    },
+    {
+      "id": "part34",
+      "name": "Dell U3818DW Monitor",
+      "modelNo": "U3818DW",
+      "type": "Monitor",
+      "imageLink": "https://example.com/dell-monitor34.jpg",
+      "specifications": "38-inch 3840x1600 resolution, IPS panel, 60Hz refresh rate, 99% sRGB color coverage",
+      "compatibility": "Compatible with most modern Dell laptops and desktops with DisplayPort 1.2 support",
+      "issuesRecalls": "",
+      "installationTroubleshooting": "1. Connect the monitor to your computer using the provided DisplayPort cable. \n2. Make sure to set the correct resolution in your computer's display settings. \n3. If you encounter any issues, consult the user manual or contact Dell support."
+    },
+    {
+      "id": "part35",
+      "name": "Dell G15 Gaming Desktop",
+      "modelNo": "G15",
+      "type": "Desktop",
+      "imageLink": "https://example.com/dell-desktop35.jpg",
+      "specifications": "AMD Ryzen 9 processor, NVIDIA RTX 3070 GPU, 32GB RAM, 1TB NVMe SSD",
+      "compatibility": "Compatible with Dell gaming monitors and peripherals",
+      "issuesRecalls": "No known issues or recalls.",
+      "installationTroubleshooting": "1. Connect the desktop to your monitor and peripherals. \n2. Ensure all components are properly seated. \n3. If you encounter any issues, check for BIOS updates and contact Dell support if necessary."
+    },
+    {
+      "id": "part36",
+      "name": "Dell S3422DW Curved Monitor",
+      "modelNo": "S3422DW",
+      "type": "Monitor",
+      "imageLink": "https://example.com/dell-monitor36.jpg",
+      "specifications": "34-inch 1440p curved display, 75Hz refresh rate, 4ms response time, AMD FreeSync",
+      "compatibility": "Compatible with most modern Dell laptops and desktops with HDMI or DisplayPort support",
+      "issuesRecalls": "",
+      "installationTroubleshooting": "1. Connect the monitor to your computer using the provided HDMI or DisplayPort cable. \n2. Make sure to set the correct resolution in your computer's display settings. \n3. If you encounter any issues, consult the user manual or contact Dell support."
+    },
+    {
+      "id": "part37",
+      "name": "Dell XPS 13 2-in-1 Laptop",
+      "modelNo": "XPS 13 2-in-1",
+      "type": "Laptop",
+      "imageLink": "https://example.com/dell-laptop37.jpg",
+      "specifications": "13.4-inch 4K UHD touchscreen display, Intel Core i7 processor, 16GB RAM, 512GB SSD, Intel Iris Xe Graphics",
+      "compatibility": "Compatible with various Dell docking stations and peripherals",
+      "issuesRecalls": "",
+      "installationTroubleshooting": "1. Charge the laptop before first use. \n2. Connect to a Wi-Fi network during initial setup. \n3. If you experience any issues, check for software updates and contact Dell support if necessary."
+    },
+    {
+      "id": "part38",
+      "name": "Dell S3222DGM Curved Gaming Monitor",
+      "modelNo": "S3222DGM",
+      "type": "Monitor",
+      "imageLink": "https://example.com/dell-monitor38.jpg",
+      "specifications": "31.5-inch QHD curved display, 165Hz refresh rate, 1ms response time, AMD FreeSync Premium Pro",
+      "compatibility": "Compatible with gaming PCs and consoles with HDMI or DisplayPort support",
+      "issuesRecalls": "Some users reported occasional flickering at higher refresh rates.",
+      "installationTroubleshooting": "1. Connect the monitor to your gaming PC or console using HDMI or DisplayPort. \n2. Adjust the refresh rate and resolution settings according to your preference. \n3. If you encounter flickering issues, try lowering the refresh rate or contact Dell support for assistance."
+    },
+    {
+      "id": "part39",
+      "name": "Dell Inspiron 17 3000 Series Laptop",
+      "modelNo": "Inspiron 17 3000",
+      "type": "Laptop",
+      "imageLink": "https://example.com/dell-laptop39.jpg",
+      "specifications": "17.3-inch HD display, Intel Core i3 processor, 8GB RAM, 256GB SSD, Intel UHD Graphics",
+      "compatibility": "",
+      "issuesRecalls": "No known issues or recalls.",
+      "installationTroubleshooting": "1. Charge the laptop before first use. \n2. Connect to a Wi-Fi network during initial setup. \n3. If you encounter any issues, check for software updates and contact Dell support if necessary."
+    },
+    {
+      "id": "part40",
+      "name": "Dell S2721Q Monitor",
+      "modelNo": "S2721Q",
+      "type": "Monitor",
+      "imageLink": "https://example.com/dell-monitor40.jpg",
+      "specifications": "27-inch 4K UHD display, IPS panel, 60Hz refresh rate, 99% sRGB color coverage",
+      "compatibility": "Compatible with most modern Dell laptops and desktops",
+      "issuesRecalls": "",
+      "installationTroubleshooting": "1. Connect the monitor to your computer using the provided cables. \n2. Make sure to set the correct resolution in your computer's display settings. \n3. If you encounter any issues, consult the user manual or contact Dell support."
+    },
+    {
+      "name": "dell new",
+      "modelNo": "CDT627V",
+      "type": "",
+      "imageLink": "sfdg",
+      "specifications": "Specfications",
+      "compatibility": "dell inpiron",
+      "issuesRecalls": "",
+      "installationTroubleshooting": "1. install 2. addd 3. repair",
+      "id": "part41"
+    },
+    {
+      "name": "gaurav",
+      "modelNo": "CDT627V",
+      "type": "alptop",
+      "imageLink": "\"\"",
+      "specifications": "asdferg",
+      "compatibility": "dsafg",
+      "issuesRecalls": "",
+      "installationTroubleshooting": "sdafg",
+      "id": "part42"
+    }
+  ]
+}
